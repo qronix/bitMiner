@@ -1,0 +1,1 @@
+let CANVAS=document.querySelector("#gameCanvas"),CTX=CANVAS.getContext("2d");const CANVAS_WIDTH=300,CANVAS_HEIGHT=300;CANVAS.width=300,CANVAS.height=300,CTX.fillStyle="rgb(40,30,30)",CTX.fillRect(10,10,50,50),CTX.fillStyle="rgb(200, 0, 0)",CTX.fillRect(10,10,50,94),CTX.fillStyle="rgba(0, 0, 200, 0.5)",CTX.fillRect(30,30,50,50);
